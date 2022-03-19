@@ -9,7 +9,6 @@
 
 
 > Chatari - A Discord Chatbot Which can chat, annoy, play and Do useless stuff with you. 
-
 > It can make your Discord server(s) active, even if there are 0 members 😂.
 
 
