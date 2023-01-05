@@ -1,4 +1,6 @@
-# 👋 I am Chatari
+<div align="middle">
+  
+# Hi!👋 I am Chatari!
 
 ![](https://avatars.githubusercontent.com/u/101915713?s=88&v=4) <img src="https://user-images.githubusercontent.com/79645854/210753051-e4c67a30-899b-44bc-88d5-90a4d4e011e6.jpg" width="88px">
 
@@ -27,7 +29,6 @@ Discord
 * Created and maintained by [@CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 
 ---
-<div align="middle">
 <h3>Now in 100+ Servers</h3>
 
 
