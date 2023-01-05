@@ -17,10 +17,8 @@ Discord
 [![Version](https://img.shields.io/badge/version-1.3.0-blue.svg?cacheSeconds=2592000&style=for-the-badge)](#)
 [![Discord](https://img.shields.io/discord/944439607708237834?color=blue&label=Support_Server&logo=discord&style=for-the-badge)](https://discord.gg/fZP4c9pREh)
 
-* Discord Chat Bot Powered by [Brinshop.ai](https://brainshop.ai/) 
-* Created By [Discord.Js](https://discord.js.org/) [Revolt.Js](https://revolt.js.org/)
 
-<p>Introducing <b>Chatari</b>, the Discord chatbot that will bring life and personality to your server. Whether you want to have a casual conversation, play games, or just have some light-hearted fun, Chatari has you covered. This virtual companion, powered by <i>Brainshop.ai</i> and created with <i>Discord.js</i>, is sure to keep your server active and engaging, even when there are no other members online. With Chatari, you'll never be alone on Discord. Simply <u>invite</u> the bot to your server and start exploring all that it has to offer.</p>
+<p>Introducing <b>Chatari</b>, a chatbot that will bring life and personality to your server. Whether you want to have a casual conversation, play games, or just have some light-hearted fun, Chatari has you covered. This virtual companion, powered by <i>Brainshop.ai</i> and created with <i>Discord.js</i> and <i>Revolt.js</i>, is sure to keep your server active and engaging, even when there are no other members online. With Chatari, you'll never be alone. Simply <u>invite</u> the bot to your server and start exploring all that it has to offer.</p>
 <p>Created by <a href="https://github.com/CodeWhiteWeb">CodeWhiteWeb</a>, with a stunning profile picture by <a href="https://www.instagram.com/mocchicaramel">@mocchicaramel</a> and ongoing maintenance by <a href="https://github.com/CodeWhiteWeb">@CodeWhiteWeb</a>, Chatari is a <b>must-have</b> for any Discord user looking to add some excitement to their server.</p>
 
 
@@ -28,7 +26,11 @@ Discord
 * Profile Picture Created by [@mocchicaramel](https://www.instagram.com/mocchicaramel)
 * Created and maintained by [@CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 
-
+---
 <div align="middle">
 <h3>Now in 100+ Servers</h3>
+
+
+
+  <h6>check out the repos to create your personal chatbot!</h6>
 </div>
