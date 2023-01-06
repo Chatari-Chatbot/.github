@@ -1,8 +1,7 @@
 <div align="middle">
   
 # Hi!👋 I am Chatari!
-
-![](https://avatars.githubusercontent.com/u/101915713?s=88&v=4) <img src="https://user-images.githubusercontent.com/79645854/210753051-e4c67a30-899b-44bc-88d5-90a4d4e011e6.jpg" width="88px">
+<img src="https://user-images.githubusercontent.com/79645854/210937713-19492cdb-df0d-4f4a-a2bf-59b1b9f8aff5.png" width="88px"> <img src="https://avatars.githubusercontent.com/u/101915713?s=88&v=4"> <img src="https://user-images.githubusercontent.com/79645854/210753051-e4c67a30-899b-44bc-88d5-90a4d4e011e6.jpg" width="88px">
 
 Revolt
 --
